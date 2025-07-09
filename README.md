@@ -48,7 +48,7 @@ npm run dev
 
 ## 🌐 Deployment
 
-This project is deployed on [Vercel](https://vercel.com/) — [Live Link](https://qasimrokeeb-random-quote-generator.vercel.app/)
+This project is deployed on [Vercel](https://vercel.com/) — [Live Link](https://random-quote-generator-fawn-one.vercel.app/)
 
 ---
 
